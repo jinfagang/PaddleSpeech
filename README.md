@@ -1,3 +1,19 @@
+# PaddleSpeech
+
+A fork version from original PaddleSpeech. It's good but sometimes too many dependencies.
+
+I will do these things:
+
+- Migrate PaddleSpeech to PyTorch, while still keep Chinese training support;
+- Make it buildable on macOS for the first statge;
+- ONNX export and onnxruntime inference on FastSpeech2 Chinese model.
+
+
+
+
+
+
+----------------------
 ([简体中文](./README_cn.md)|English)
 <p align="center">
   <img src="./docs/images/PaddleSpeech_logo.png" />

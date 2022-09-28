@@ -14,3 +14,7 @@
 import _locale
 
 _locale._getdefaultlocale = (lambda *args: ['en_US', 'utf8'])
+
+__version__ = '0.0.0'
+
+__commit__ = '764fa0a8599a6b20c6f719b70bb45a3b4d52b245'
